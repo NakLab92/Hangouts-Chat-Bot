@@ -1,0 +1,14 @@
+{
+  "name": "hangoutschatbot",
+  "version": "1.0.0",
+  "description": "Bot for creating links to the chat 'Hangouts' for 'Telegram'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lypka Bohdan",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
