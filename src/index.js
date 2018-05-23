@@ -5,5 +5,5 @@ const bot = new TelegramBot(token, {polling: true});
 
 bot.on('message', function (msg) {
     const id = msg.from.id;
-    bot.sendMessage(id, msg.text);
+    bot.sendMessage(id, 'https://hangouts.google.com/call/npvpswx7bvdgdbewycgf6lmnfqe?no_rd');
 });
